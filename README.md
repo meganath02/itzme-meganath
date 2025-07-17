@@ -17,4 +17,4 @@ I'm a B.Tech student passionate about **Python**, **Machine Learning**, and **Fu
 
 ## 📫 Contact
 - 📧 **Email:** `meganathlovasudheer7@gmail.com`  
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/meganathlovasudheer/)
